@@ -5,6 +5,7 @@
   <li>Hangman_game</li>
   <li>Calculator</li>
   <li>Dice_game</li>
+  <li>TicTocToe</li>
 </ol>
 
 <h2>Dictionary</h2>
@@ -21,4 +22,7 @@
 <p>Calculator is featured with standard, programming and trignometric calculations.</p>
 <h2>Dice_Game</h2>
 <p>A random number will be generated from 1-6.</p>
+<h2>TicTocToe</h2>
+<p>It's a human v/s computer game</p>
+<p>The game will have a 3X3 matrix with 9 available inputs, one can win the game if any horizontal/vertical/cross line would be with one's symbol, if no one have won and all spaces filled match is draw.</p>
 
