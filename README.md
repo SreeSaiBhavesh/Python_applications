@@ -6,6 +6,7 @@
   <li>Calculator</li>
   <li>Dice_game</li>
   <li>TicTocToe</li>
+  <li>Game30</li>
 </ol>
 
 <h2>Dictionary</h2>
@@ -25,4 +26,8 @@
 <h2>TicTocToe</h2>
 <p>It's a human v/s computer game</p>
 <p>The game will have a 3X3 matrix with 9 available inputs, one can win the game if any horizontal/vertical/cross line would be with one's symbol, if no one have won and all spaces filled match is draw.</p>
+<h2>Game30</h2>
+<p>There would be 30 items, with 2 players in the game. One can take a minimum of 1 and maximum of 6 items at their turn.</p>
+<p>if now player1 picks the item, next player 2 will pick alternate chances would be. The player who picks the 30th item mean the player who ends the game with 0 items left and not allowing the other player to pick making items 0 is the winner</p>
+<p> To decide who starts the game, there is also a toss feature in the code itself</p>
 
