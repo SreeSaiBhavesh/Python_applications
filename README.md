@@ -31,4 +31,4 @@
 <p>if now player1 picks the item, next player 2 will pick alternate chances would be. The player who picks the 30th item mean the player who ends the game with 0 items left and not allowing the other player to pick making items 0 is the winner of the game.</p>
 <p> To decide who starts the game, there is also a toss feature in the code itself</p>
 <h2>Match Matcher</h2>
-<p> There would be 6 columns and 4 rows, means 24 boxes. Each box contains one symbol. All the boxes would be shown blank, One can see symbol only when they clicked on it. Game is to find the symbol opened by opening the correct other box where the symbol exist. Likewise all the boxes need to be opened to win the game</p>
+<p> There would be 6 columns and 4 rows, means 24 total boxes. Each box contains one symbol. All the boxes would be shown blank, One can see symbol only when they click on the box. Game is to find the symbol opened by opening the correct other box where the symbol exist. Likewise all the boxes need to be opened to win the game</p>
