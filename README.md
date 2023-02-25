@@ -7,6 +7,7 @@
   <li>Dice_game</li>
   <li>TicTocToe</li>
   <li>Game30</li>
+  <li>Match Matcher</li>
 </ol>
 
 <h2>Dictionary</h2>
